@@ -1,5 +1,5 @@
 # DanielAndres_Collab
-Group members:<br>
+Group members:
      * Andres Trujillo
      * Daniel Bukowski
   
