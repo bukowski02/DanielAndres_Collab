@@ -1,7 +1,7 @@
 # DanielAndres_Collab
 Group members:<br>
-     * Andres Trujillo
-     * Daniel Bukowski
+     Andres Trujillo<br>
+     Daniel Bukowski
   
-<em> Description:</em> <br>
+<em> Description:<em> <br>
 In this program, the user is to input their name and age. The program then prints their name and age together.
