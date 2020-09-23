@@ -1,4 +1,4 @@
-# DanielAndres_Collab 9/23/20
+# DanielAndres_Collab
 Group members:<br>
 Andres Trujillo<br>
 Daniel Bukowski
